@@ -22,7 +22,7 @@ Here are some insights visualized from the dataset:
 
 <p align="center">
   <a href="IND_USA.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/Magnus0969/GDP-Analysis/main/IND_USA.png" alt="Sample GDP Visualization" width="800" />
+    <img src="Sample Visualization" alt="Sample GDP Visualization" width="800" />
   </a>
 </p>
 
