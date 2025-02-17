@@ -10,20 +10,23 @@ This repository contains an in-depth analysis of Gross Domestic Product (GDP) tr
 - **Plotly** 📉
 - **Jupyter Notebook** 📒
 
-
 ## 📈 Key Features
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Statistical insights and visualizations
 - Correlation analysis between GDP and economic indicators
-- Predictive modeling using regression techniques
+- Predictive modelling using regression techniques
 
 ## 📊 Visualizations
 Here are some insights visualized from the dataset:
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Sample GDP Visualization" />
+  <a href="IND_USA.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/Magnus0969/GDP-Analysis/main/IND_USA.png" alt="Sample GDP Visualization" width="800" />
+  </a>
 </p>
+
+🔗 Click [here](IND_USA.html) to view the interactive visualization.
 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
@@ -47,4 +50,3 @@ For any questions or collaborations, feel free to reach out on **[LinkedIn](http
 
 ---
 <p align="center">Made with ❤️ by Karthik B Magadi</p>
-
